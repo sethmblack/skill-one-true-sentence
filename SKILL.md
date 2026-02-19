@@ -3,8 +3,9 @@ name: one-true-sentence
 description: Find the truest, most essential sentence that captures what you're trying to say. Build from there.
 license: MIT
 metadata:
+  version: 1.0.4607
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - one-true-sentence
 - writing
